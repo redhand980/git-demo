@@ -5,3 +5,10 @@ on this their chosen buttlefield
 
 form the lines
 shiel by shield
+<<<<<<< HEAD
+side by side
+we're marching into destiny
+=======
+
+new content again
+>>>>>>> 1cb1ff8498345d83f9a8e9fe0cbf84b436e7fb9b
